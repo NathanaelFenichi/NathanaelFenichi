@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Nathanael%20Santos&fontSize=50&fontColor=f0eaff&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Futuro%20DevOps&descAlignY=58&descColor=c084fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Nathanael%20Santos&fontSize=50&fontColor=f0eaff&fontAlignY=38&desc=Engenharia%20de%20Software&descAlignY=58&descColor=c084fc" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software+%F0%9F%92%9C;Buscando+est%C3%A1gio+em+Dev+Web+%F0%9F%8C%90;Rumo+ao+DevOps+%F0%9F%9A%80;S%C3%A3o+Jo%C3%A3o+da+Boa+Vista+-+SP+%F0%9F%93%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software+%F0%9F%92%9C;Buscando+est%C3%A1gio+em+Dev+Web+%F0%9F%8C%90;S%C3%A3o+Jo%C3%A3o+da+Boa+Vista+-+SP+%F0%9F%93%8D)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,6 @@ const nathanael = {
   idade:      18,
   cidade:     "São João da Boa Vista - SP",
   formação:   "Engenharia de Software @ UNIFAE",
-  objetivo:   "Tornar-me um profissional DevOps 🚀",
   buscando:   "Estágio em Desenvolvimento Web",
   idiomas:    ["Português 🇧🇷 (nativo)", "Inglês 🇺🇸 (intermediário/avançado)"],
 };
