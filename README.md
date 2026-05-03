@@ -14,15 +14,13 @@
 
 ## 👾 Sobre mim
 
-```typescript
 const nathanael = {
   idade:      18,
   cidade:     "São João da Boa Vista - SP",
   formação:   "Engenharia de Software @ UNIFAE",
   buscando:   "Estágio em Desenvolvimento Web",
   idiomas:    ["Português 🇧🇷 (nativo)", "Inglês 🇺🇸 (intermediário/avançado)"],
-};
-```
+
 
 ---
 
