@@ -59,17 +59,6 @@ const nathanael = {
 
 ---
 
-## 🎓 Certificados
-
-| Certificado | Instituição | Período |
-|-------------|-------------|---------|
-| 🖥️ Técnico em Informática | SENAC | Ago 2023 – Abr 2025 |
-| 🌐 Assistente de Operação de Rede | SENAC | Nov 2024 – Abr 2025 |
-| 🔧 Assistente de Suporte e Manutenção | SENAC | Jun – Out 2024 |
-| 📱 Assistente de Desenvolvimento de Apps | SENAC | Mai 2024 |
-| 🛡️ NetworkDefense | Cisco | — |
-
----
 
 ## 💼 Experiência
 
