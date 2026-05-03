@@ -14,10 +14,9 @@
 
 ## 👾 Sobre mim
 
-  idade:      18,
-  cidade:     "São João da Boa Vista - SP",
-  formação:   "Engenharia de Software @ UNIFAE",
-  buscando:   "Estágio em Desenvolvimento Web",
+  ### Idade:   19,  
+  ### Cidade:  "São João da Boa Vista - SP",  
+  ### Formação:  "Engenharia de Software - UNIFAE",  
 
 
 ---
