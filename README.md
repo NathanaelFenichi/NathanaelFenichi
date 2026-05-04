@@ -14,9 +14,9 @@
 
 ## 👾 Sobre mim
 
-  ### Idade:   19,  
-  ### Cidade:  "São João da Boa Vista - SP",  
-  ### Formação:  "Engenharia de Software - UNIFAE",  
+  - Idade:   19,  
+  - Cidade:  "São João da Boa Vista - SP",  
+  - Formação:  "Engenharia de Software - UNIFAE",  
 
 
 ---
