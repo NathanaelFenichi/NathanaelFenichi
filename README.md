@@ -54,18 +54,6 @@
 
 </div>
 
----
-
-
-## 💼 Experiência
-
-**🟣 Estagiário — Markplace** *(Fev 2026 – Presente)*
-> E-commerce: criação de anúncios, organização de produtos e atualização de catálogos em marketplaces.
-
-**🟣 Assistente Administrativo — Experimental Integrado** *(Jul 2025 – Fev 2026)*
-> Controle de planilhas, organização financeira e atendimento ao público.
-
----
 
 ## 📬 Contato
 
@@ -76,7 +64,6 @@
 
 </div>
 
----
 
 <div align="center">
 
